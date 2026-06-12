@@ -1,0 +1,3 @@
+name: lichenomics
+channels:
+  - conda-forge
